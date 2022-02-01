@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.width{
+    margin: -2.5vw auto ;
+    width: 60vw;
+    font-size: 1.5vw;
+}
+.subHeading{
+    font-size: 1.5vw;
+    width: 60vw;
+    margin: auto;
+    display: block;
+}
+#img1{
+    
+    width: 60vw;
+}
+.footer{
+    background-color: black;
+    height: 2vw;
+    color: antiquewhite;
+    margin-bottom: 0.2vw;
+    text-align: center;
+    font-size: 1.5vw;   
+}

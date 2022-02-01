@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#society{
+    float: right;
+    margin-left: 15px;
+    margin-right: 5px;
+    height: 25vw;
+    width: 45vw;
+    /* background: url('https://icdn.isrgrajan.com/in/2021/02/Kumaoni-Society-almora-sun-temple.jpg'); */
+}
+#society1{
+    float: left;
+    height: 25vw;
+    width: 45vw;
+    margin-right: 15px;
+    margin-left: 5px;
+}
+#society2{
+    float: right;
+    height: 25vw;
+    width: 45vw;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+#society3{
+    float: left;
+    height: 25vw;
+    width: 45vw;
+    margin-right: 15px;
+    margin-left: 5px;
+}

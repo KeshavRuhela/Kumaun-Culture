@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.width{
+    text-align: justify;
+    margin: auto;
+    padding:0.8vw;
+    width: 70vw;
+    background-color: #efd1d4;
+    box-shadow: 1 2 3;
+}   
+.tableShadow{
+box-shadow: -2px 5px 34px 1px red;
+border-radius: 12px;
+/* border: 2px solid black; */
+}
+.fa {  
+    padding: 1vw;
+    text-align: center;
+    margin: 0vw 3vw;
+    border-radius: 15px;
+    font-size: 3vw;
+    width: 6vw;
+    height: 5vw;
+
+  }  
+.fa-instagram {  
+    background: #a52c5a;  
+    color: white;  
+  } 
+  .fa-facebook {  
+    background: #2a07f9;  
+    color: white;  
+  }  
+   
+#iconCenter{
+    margin: 1vw auto;
+    width: 90vw;
+    height: 7vw;
+    padding: 1vw;
+    display:flex;
+    /* background-color:violet; */
+    justify-content: center;
+}  
+#image{
+  position: fixed;
+  right: 1vw;
+  border-radius: 0.7vw;
+  margin: 0.4vw;
+  text-decoration: none;
+  font-weight: 500;
+  border: 2px solid black;
+  padding: 5px;
+  font-size: 1.7vw;
+
+}
+#image:hover{
+  background-color: #2a07f9;
+  color: white;
+}
+.hove{
+  /* font-weight: 500; */
+  color: black;
+  /* background-color: red; */
+}
+.hove:hover{
+  color: white !important;
+}
+.hove:focus{
+  border-bottom:2px solid black !important  ;
+  /* color: white !important; */
+}
+.hi{
+  /* position:absolute; */
+  /* float:inline-end ; */
+}
+.almoratext{
+  position: relative;
+  color: #a52c5a;
+  display: block;
+  z-index: 2;
+  background-color: #eee9e9;
+  width: 11.45vw;
+  right: -7.1vw;
+  bottom: 3vw;
+}
+.one{
+  width: 5vw !important;
+}

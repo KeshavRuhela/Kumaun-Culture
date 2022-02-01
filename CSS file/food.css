@@ -1,0 +1,52 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.width{
+    margin: -2.5vw auto ;
+    width: 60vw;
+    font-size: 1.5vw;
+    text-align: justify;
+}
+.subHeading{
+    font-size: 1.5vw;
+    width: 60vw;
+    margin: auto;
+    display: block;
+}
+#img1{
+    height: 35vw;
+    width: 60vw;
+    border: 3px solid black;
+}
+.footer{
+    background-color: black;
+    height: 2vw;
+    color: antiquewhite;
+    margin-bottom: 0.2vw;
+    text-align: center;
+    font-size: 1.5vw;   
+}
+#image{
+    position: fixed;
+    right: 1vw;
+    border-radius: 0.7vw;
+    margin: 0.4vw;
+    text-decoration: none;
+    font-weight: 500;
+    border: 2px solid black;
+    padding: 5px;
+    font-size: 1.7vw;
+  
+  }
+  #image:hover{
+    background-color: #2a07f9;
+    color: white;
+  }
+  .back{
+      background-color:#dedaf8;
+      width: 80vw;
+    padding: 1vw;
+      margin: auto;
+  }
